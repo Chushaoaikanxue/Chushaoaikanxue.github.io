@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>test</title>
+      <link href="/2025/01/08/test/"/>
+      <url>/2025/01/08/test/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh,这是一个无效的密码。请检查并重试。" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="78ac2e967a54eb469f3b57d72404c9303f87f7a43b45f907b971f7139423ac23">1691fc89efc86d3c56803af99dd145e60be06238889a8e8f2d01e40273ee81b1b06a9d90ee5e8f536e8a6df6153ab6b8c9a626d03365f246b4533adadd4c28b7414a10ef2308cdab1221477bc3826b5015bb1ed35cead75dfd6e79ee2c4fb50efbe041462a528bde660a3788b956ab4a0d8cf48ea6d476562c5be04c5d6df4068a0cee03ff3828ec87c7b343752f498c9fdd8834175b04cfeced1a79fdad2746325d47add35c57bd3efb20628645099fd48602681473ebfc486e8c51c549d3c0b72bb29c7b925bb97827aadb2b0112efb9393fb7c2620f705abf134b67cb4ad1</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入访问密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> default </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> club </tag>
+            
+            <tag> ubuntu </tag>
+            
+            <tag> centos </tag>
+            
+            <tag> mysql </tag>
+            
+            <tag> shell </tag>
+            
+            <tag> python </tag>
+            
+            <tag> docker </tag>
+            
+            <tag> ceph </tag>
+            
+            <tag> kubernetes </tag>
+            
+            <tag> 迁云 </tag>
+            
+            <tag> 云计算 </tag>
+            
+            <tag> 云原生监控 </tag>
+            
+            <tag> 常用软件 </tag>
+            
+            <tag> 环境部署 </tag>
+            
+            <tag> 加密博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>云计算学习</title>
+      <link href="/2023/05/10/%E4%BA%91/"/>
+      <url>/2023/05/10/%E4%BA%91/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="云计算"><a href="#云计算" class="headerlink" title="云计算"></a>云计算</h3><p>前言：</p><p>云计算初学比较难但只要一步一步来还是很容易的<br>云计算就是：一台物理设备虚拟为很多台设备 达到资源的最高利用率 传统一台物理服务器只能 跑一个操作系统<br>云计算则一台服务器可以跑多台设备各种操作系统 如云计算一台物理机上面可以运行 windows ubuntu macos centos等任何v系统 云计算公司如：华为云 阿里云 腾讯云等 我们常使用的百度网盘就是云计算的一种其底层是分布式存储ceph 在云计算领域百度网盘这样的 又叫对象存储</p><p><img src="/2023/05/10/%E4%BA%91/image-20230511211624858.png" alt="image-20230511211624858"></p><h2 id="一-基础部分"><a href="#一-基础部分" class="headerlink" title="一. 基础部分"></a>一. 基础部分</h2><p>电脑下载一个workstdtion workstdtion安装一个ubuntu18.04操作系统系统你先学个linux 把这些视频看完: </p><p>学习linux<br><a href="https://www.bilibili.com/video/BV14z4y1Q7Hm/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV14z4y1Q7Hm/?spm_id_from=333.999.0.0</a><br>学习shell脚本：<br><a href="https://www.bilibili.com/video/BV1XB4y1P7Sh/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1XB4y1P7Sh/?spm_id_from=333.999.0.0</a><br>学习mysql:<br><a href="https://www.bilibili.com/video/BV1KW411u7vy/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1KW411u7vy/?spm_id_from=333.999.0.0</a><br>学习docker:<br><a href="https://www.bilibili.com/video/BV1Ls411n7mx/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1Ls411n7mx/?spm_id_from=333.999.0.0</a><br>学习常用监控软件 telegraf，prometheus，grafana , influxdb ：<br>关注微信公众号麦逗搞IT 查看prometheus  telegraf grafana学习视频 </p><p>ansible学习<br><a href="https://www.bilibili.com/video/BV17o4y1Z7As?p=1">https://www.bilibili.com/video/BV17o4y1Z7As?p=1</a><br>python自动化办公(主要网络爬虫方向)<br><a href="https://www.bilibili.com/video/BV12K411N7nx/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV12K411N7nx/?spm_id_from=333.999.0.0</a><br>prometheus telegraf grafana(关注微信公众号 / 麦兜搞IT)<br><a href="https://www.bilibili.com/video/BV12Y4y147bj/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV12Y4y147bj/?spm_id_from=333.999.0.0</a><br><a href="https://mp.weixin.qq.com/s?__biz=MzU5MzUxMDkyNQ==&amp;mid=2247484401&amp;idx=1&amp;sn=428c6cf46391bc19a46ce2063b7f7dbe">https://mp.weixin.qq.com/s?__biz=MzU5MzUxMDkyNQ==&amp;mid=2247484401&amp;idx=1&amp;sn=428c6cf46391bc19a46ce2063b7f7dbe</a><br>较为全面的云计算学习网站<br><a href="https://study.liuzehe.top/">https://study.liuzehe.top/</a></p><h2 id="二-云计算部分"><a href="#二-云计算部分" class="headerlink" title="二. 云计算部分"></a>二. 云计算部分</h2><p>学习：vmware ,vcenter，exsi虚拟化<br>学习：openstack<br>学习：分布式存储 ceph</p><h2 id="三-监控部分概览-（-用于大致了解容器技术-）"><a href="#三-监控部分概览-（-用于大致了解容器技术-）" class="headerlink" title="三. 监控部分概览 （ 用于大致了解容器技术 ）"></a>三. 监控部分概览 （ 用于大致了解容器技术 ）</h2><p>监控linux指标 grafana出图效果：</p><p><img src="/2023/05/10/%E4%BA%91/image-20230902133158298.png" alt="image-20230902133158298"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 云计算 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 云计算 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
